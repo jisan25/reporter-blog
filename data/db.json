@@ -1,0 +1,156 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Is it Ethical to Travel Now? With that Freedom Comes Responsibility.",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-1.jpg",
+            "date": "04 Jun 2022",
+            "read_time": "3 minutes read",
+            "is_featured": true,
+            "categoryId": 9
+        },
+        {
+            "id": 2,
+            "title": "An Experiential Guide to Explore This Kingdom",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-2.jpg",
+            "date": "04 Jun 2021",
+            "read_time": "3 minutes read",
+            "is_featured": false,
+            "categoryId": 9
+        },
+        {
+            "id": 3,
+            "title": "What to Do in Houston: Ideas for Your Visit",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/ls-2.jpg",
+            "date": "04 Jun 2021",
+            "read_time": "3 minutes read",
+            "is_featured": false,
+            "categoryId": 2
+        },
+        {
+            "id": 4,
+            "title": "Alaska Cruises Will Restart as Biden Signs New Tourism Law",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/cr-1.jpg",
+            "date": "04 Jun 2021",
+            "read_time": "3 minutes read",
+            "is_featured": false,
+            "categoryId": 1
+        },
+        {
+            "id": 5,
+            "title": "Travel Association Calls on CDC to Remove Cruise Restrictions",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/cr-2.jpg",
+            "date": "04 Jun 2021",
+            "read_time": "3 minutes read",
+            "is_featured": false,
+            "categoryId": 2
+        },
+        {
+            "id": 6,
+            "title": "5 Tips for Solo Female Travelers",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-6.jpg",
+            "date": "05 Jun 2022",
+            "read_time": "2 minutes read",
+            "is_featured": false,
+            "categoryId": 4
+        },
+        {
+            "id": 7,
+            "title": "How to Plan the Perfect Weekend Getaway in New York City",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-7.jpg",
+            "date": "06 Jun 2023",
+            "read_time": "1 minutes read",
+            "is_featured": false,
+            "categoryId": 4
+        },
+        {
+            "id": 8,
+            "title": "The Ultimate Guide to Backpacking Southeast Asia",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-8.jpg",
+            "date": "07 Jun 2021",
+            "read_time": "2 minutes read",
+            "is_featured": false,
+            "categoryId": 3
+        },
+        {
+            "id": 9,
+            "title": "A Foodie's Guide to Eating Your Way Through Italy",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-9.jpg",
+            "date": "08 Jun 2022",
+            "read_time": "2 minutes read",
+            "is_featured": false,
+            "categoryId": 2
+        },
+        {
+            "id": 10,
+            "title": "10 Reasons Why Tokyo Should Be Your Next Travel Destination",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-10.jpg",
+            "date": "09 Jun 2021",
+            "read_time": "1 minutes read",
+            "is_featured": false,
+            "categoryId": 1
+        },
+        {
+            "id": 11,
+            "title": "The Best Places to Visit in Europe in the Fall",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ipsum neque. Donec ligula tortor, viverra sit amet tincidunt eget, maximus vel diam. Vivamus accumsan nulla ac nisi tincidunt sagittis. Morbi vestibulum tortor vel neque varius dictum. Cras non ipsum et lectus cursus placerat vel sed turpis. Suspendisse in porttitor ligula. Proin facilisis orci vitae interdum scelerisque. Duis tempor vehicula turpis et faucibus. In fermentum gravida tellus et scelerisque. Ut ac turpis rutrum, semper augue ut, vulputate nunc. Integer sed lorem ultrices, accumsan dui id, varius nunc. Nullam orci massa, ultricies quis velit maximus, commodo ultrices massa. Nullam neque orci, pharetra eget sagittis in, congue nec metus. Aliquam tristique felis odio. Praesent cursus est id nisl ultrices gravida. Cras ac elit vel elit posuere sodales eu et quam. Pellentesque tempor volutpat ipsum non pellentesque. Cras risus odio, luctus a fringilla nec, fringilla id sapien. Curabitur aliquam placerat nisi, iaculis consectetur justo finibus eu. In imperdiet tellus at tortor posuere maximus. Etiam fermentum accumsan cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis fermentum scelerisque mi, in tempor ligula mollis a. Ut ullamcorper diam metus, quis vulputate ligula euismod ullamcorper. Mauris mattis dui ipsum, in blandit neque vehicula a. Aenean pretium pharetra libero sit amet congue. Aliquam erat volutpat. In hac habitasse platea dictumst.",
+            "image": "images/post/post-11.jpg",
+            "date": "10 Jun 2021",
+            "read_time": "2 minutes read",
+            "is_featured": false,
+            "categoryId": 2
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "computer"
+        },
+        {
+            "id": 2,
+            "name": "cruises"
+        },
+        {
+            "id": 3,
+            "name": "destination"
+        },
+        {
+            "id": 4,
+            "name": "internet"
+        },
+        {
+            "id": 5,
+            "name": "lifestyle"
+        },
+        {
+            "id": 6,
+            "name": "news"
+        },
+        {
+            "id": 7,
+            "name": "telephone"
+        },
+        {
+            "id": 8,
+            "name": "tips"
+        },
+        {
+            "id": 9,
+            "name": "travel"
+        },
+        {
+            "id": 10,
+            "name": "website"
+        }
+    ]
+}
